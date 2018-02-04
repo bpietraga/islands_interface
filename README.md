@@ -1,7 +1,9 @@
-# IslandsInterface
+# islands_interface
 
-Interface to islands_engine. Make sure you have islands_engine cloned in the
-folder above.
+This is front end and phoenix application for the islands game from book Functional Web Development with Elixir, OTP, and Phoenix
+Interface to islands_engine. Make sure you have islands_engine also cloned in folder where this app is cloned.
+
+The code comes from the amazing book [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix) by Lance Halvorsen.
 
 To start your Phoenix server:
 
